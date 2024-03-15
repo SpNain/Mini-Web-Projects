@@ -1,0 +1,24 @@
+[submodule "Automate-HACKERRANK-Challenge"]
+	path = Automate-HACKERRANK-Challenge
+	url = https://github.com/SpNain/Automate-HACKERRANK-Challenge.git
+[submodule "Cat-Commands"]
+	path = Cat-Commands
+	url = https://github.com/SpNain/Cat-Commands.git
+[submodule "Create-HACKERRANK-Challenge-with-Automation"]
+	path = Create-HACKERRANK-Challenge-with-Automation
+	url = https://github.com/SpNain/Create-HACKERRANK-Challenge-with-Automation.git
+[submodule "ESPN-Scrapper"]
+	path = ESPN-Scrapper
+	url = https://github.com/SpNain/ESPN-Scrapper.git
+[submodule "Git-Scrapper"]
+	path = Git-Scrapper
+	url = https://github.com/SpNain/Git-Scrapper.git
+[submodule "IPL-Data-Scrapper"]
+	path = IPL-Data-Scrapper
+	url = https://github.com/SpNain/IPL-Data-Scrapper.git
+[submodule "IPL-Leaderboard"]
+	path = IPL-Leaderboard
+	url = https://github.com/SpNain/IPL-Leaderboard.git
+[submodule "Task-Manager"]
+	path = Task-Manager
+	url = https://github.com/SpNain/Task-Manager.git
